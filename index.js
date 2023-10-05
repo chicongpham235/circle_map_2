@@ -15,7 +15,7 @@ const icon_marker = `<svg width="24px" height="24px" viewBox="0 0 24 24" fill="n
 const TYPES = [
   { type: "privately owned", color: "#335bff", path: "./assets/icon1/m" },
   { type: "commercial", color: "#335bff", path: "./assets/icon1/m" },
-  { type: "authority", color: "#00a77a", path: "./assets/icon2/m" },
+  { type: "authority", color: "#b804fc", path: "./assets/icon4/m" },
   { type: "county government", color: "#08b4b4", path: "./assets/icon6/m" },
   {
     type: "local government/district/municipality",
